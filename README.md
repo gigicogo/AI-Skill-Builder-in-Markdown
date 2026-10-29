@@ -30,6 +30,8 @@ Gianluigi Cogo Content creator e technical writer interessato ad AI generativa, 
 
 L'app nasce come esercitazione nel percorso operativo "L'IA nella Pubblica Amministrazione — Percorso operativo per l'uso consapevole, sicuro e governato dell'IA generativa" (20 ore: percorso base per funzionari ed esecutori + modulo governance per direttori e dirigenti). Per info sul corso contattatemi usando i social qui sotto.
 
+## Link utili
+
 📮 Newsletter: gigicogo.substack.com
 📝 Blog: medium.com/webeconoscenza
 ▶️ YouTube: youtube.com/@gigicogo
