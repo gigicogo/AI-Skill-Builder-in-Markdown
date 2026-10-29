@@ -33,6 +33,9 @@ L'app nasce come esercitazione nel percorso operativo "L'IA nella Pubblica Ammin
 ## Link utili
 
 📮 Newsletter: gigicogo.substack.com
+
 📝 Blog: medium.com/webeconoscenza
+
 ▶️ YouTube: youtube.com/@gigicogo
+
 💼 LinkedIn: linkedin.com/in/gigicogo
